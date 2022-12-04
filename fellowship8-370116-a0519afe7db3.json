@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fellowship8-370116",
+  "private_key_id": "a0519afe7db38a8c2774a2baa5caf9c8424f8c18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClHPlJi9LfzbgX\nH+yvEM9pYutaDRX3XIR9E2AKRG3oSI+LQP+H2b/FWeqN1pYd0so0Gy4Ne2TMtNkg\nLSAh+GCb6836VxO5VCvqijkqAUwYZWn8zn/vfJuzlgUrSqo+m5T0J65mnB8R1dg6\nqFwxLyNZkBDVsh2LtmfzVQFzpLCh8ZCWLkEt6KArJxnFhuYQUccwU7enP66bSoIt\npU3+4KBw2tvIJaenE2Y4rdTcDl97gop8JTn7GwBl8Yf5FAkUck2htJY+lY9fEjA+\ng5jRIN4qmumBmxFgtxwUZlIOcqPQg5FuIXmZ/J1H7HpcNVFd22ckt4bwCNVz2S2o\nqOHd+KVvAgMBAAECggEAQ95Zf8goKVNbsLGwLbO4teZxvEW1ukQ+t1TP/Nhs3vZ4\nfnJ8tqAkSiAwIBZNBTxAXlOvxd3rLJPHzgiOdTgtqdmvBJBnbJ3zIUiov6Hh4ANL\noh1VjCDJtXNcc5OQ0AROoV9wOgBBayjd5RqQLq1kF+v2Z4h7yZJ0Pxq5aooPCrli\nMI+HKNnJYqYsfX0QtuqHGCKykBU2Eqg6KB/O1WxAugevkuQP05oaUuytnKAGlwKU\nJq+3wS7pdnreEbMUCgeeNCKo397j8FXixJJQZJfHxME9z2oExGsgGnuSL3GcAHbp\nrwt8lBgEuEvOJxttTEMwz+X64OaW1D9/0GiJMoP0aQKBgQDTr7Pl4Mt8w6a2vSSj\nXTJyArivJJeG6NnbGCzkkU3iXLRiJcbyoJePzne8XpzK6agplIYxRF5N+D/FuJy0\ndxcZTWsf52nOZ36U/WC7mSdTLikdVnD7oYNN+W+SG8ZI+KVrEAuBtpZJdytq5EjY\nvFgD0wKCRQoRNYTukBL+el7DmQKBgQDHrWjb+r74NVzJbDMMDVj4FrW05jHb0Nji\nfnwpRSyyTTjfSKKoPMCEcgXaSgaT7Y1HM3eI6+QpfoQ6laQp/MQj9mNKqylq9i5p\nU04uAqfkszachygC9H3+7TbSso2IL8vYbspq0rYX+xN6Dm3B5fIDXrgHMTGjrrvU\neMl+dLNWRwKBgG/DHz7qHWVEwvtOB079AIozJ6DIt/uxanwDWohesvklKtN60Hv/\nD6YMQyk/5pY3IOK7GNJgH04ZGEpiutGI4rgoKLvSaQlhmPI+iFjjdmCzSV/E6Kfh\n0TpUzHQel+Sk6mkJMpoMdXJaKaEo39EWN33lZTi0DKmjUQjHJlAW+XtZAoGAAI30\nupeprBrJ1S1dvuzSkG3Pt17kSI397DMZuSueAijAva3/9aOljTib141ZE1QXjlkQ\nPesZyRu21krQF+XBza/DetOa29cvLc+zaeFMAhCVWD3v2IJBT1HtUwx35Cbt0/4K\nxd0r8EkcNryPhXhUAbpjnHGAh8nWb7KeLKG6VcUCgYEAphzZdAoLFKo77AiOTJ9T\nM8iXlnf5yMtZ2n55A9mSf7AfEuBAnWT20tYQLymcxvCCywnri/dLaUp8/vrWhb/M\nkgQMtE4vHh2BnuHd9VJso5/8alWGgqK6u6xkcWMoylvL92CKBCyzBqaTP/bgO+Pt\nCdJ2po0Ouk24jvWJOPpJNxg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "df8-airflow@fellowship8-370116.iam.gserviceaccount.com",
+  "client_id": "116133745813397720087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/df8-airflow%40fellowship8-370116.iam.gserviceaccount.com"
+}
